@@ -3,7 +3,7 @@
 <br/>
 
 
-Hey I'm Colderry. A Self-Learner Developer.
+I'm Colderry. A Self-Learner Developer.
 
  **Information:**
 
