@@ -7,7 +7,7 @@ Hey I'm Colderry. A Self-Learner Developer.
 
  **Information:**
 
-- 🔭 Currently working on discord bots.**
+- 🔭 Currently working on discord bots.
 - 🌱 Learning  **Javascript and Python**
 - 🤔 I’m looking for help with  **Web development.**
 - ⚡ Fun fact : **JavaScript > Python**
