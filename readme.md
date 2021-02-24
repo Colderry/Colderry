@@ -33,7 +33,7 @@ Hey I'm Colderry. A Self-Learner Developer.
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Colderry&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Colderryv&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Colderry&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile">
 
 
 
