@@ -2,7 +2,6 @@
 
 <br/>
 
-
 I'm Colderry. A Self-Learner Developer.
 
  **Information:**
