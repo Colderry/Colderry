@@ -17,11 +17,7 @@ I'm Colderry. A Self-Learner Developer.
 <a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
 
 
-**Stats:**  
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Colderry&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Colderry&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aestradev&theme=tokyonight&hide=batchfile">
+[![Colderry's github stats](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
