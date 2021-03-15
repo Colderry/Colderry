@@ -2,6 +2,8 @@
 
 <br/>
 
+![Discord](https://discord.c99.nl/widget/theme-3/538627730921619486.png)
+
 I'm Colderry. A Self-Learner Developer.
 
  **Information:**
