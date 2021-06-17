@@ -1,25 +1,41 @@
-### Hey there 👋
+<h1 align="center">Colderry</h1>
 
-I'm Colderry. A Self-Learner Developer.
+### Hey, I'm Colderry. A Backend and Verified Bot Developer in Discord and gonna be full-stack cus why not? Some nerds said I'm retard xD
 
- ## **Personal Information:**
+<br>
+<br>
 
-- 🔭 Currently working on discord bots.
-- 🌱 Learning  **Javascript and Python**
-- ⚡ Fun fact : **Nothing**
+## Project: 
 
-## **Languages and Tools:**  
+| Name | Url     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `Logger`      | [`Click`](https://github.com/Colderry/logger) | A discord bot for logs |
 
+<br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
+# Contact:
 
-## General Information
-[![Colderry's github stats](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://discord.com/users/538627730921619486">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" align="left" width="40">
+</a>
+    <p style="font-size:21px">&nbsp;You can reach me by discord server.</p>
 
+<br>
 
+<a href="https://discord.gg/bsq88QqVvs">
+    <img src="https://invidget.switchblade.xyz/bsq88QqVvs" alt="Colderry">
+</a>
 
+<br>
 
+<br>
 
+# Github Stats
+<div align="center">
 
+![Colderry](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)
 
+<br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=colderry&show_icons=true&theme=gotham&layout=compact"> 
+    
+</div>
