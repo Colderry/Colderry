@@ -1,6 +1,6 @@
 <h1 align="center">Colderry</h1>
 
-<h4>Hey, I'm Colderry. A Backend and Verified Bot Developer in Discord and gonna be full-stack cus why not? Some nerds said I'm retard xD</h4>
+<h3>Hey, I'm Colderry. A Backend and Verified Bot Developer in Discord and gonna be full-stack cus why not? Some nerds said I'm retard xD</h3>
 
 <br>
 
