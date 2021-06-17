@@ -22,7 +22,7 @@
 <br>
 
 <a href="https://discord.gg/bsq88QqVvs">
-    <img src="https://invidget.switchblade.xyz/bsq88QqVvs" alt="Colderry">
+    <img src="https://invidget.switchblade.xyz/bsq88QqVvs" alt="Colderry" style="display:none">
 </a>
 
 <br>
