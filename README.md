@@ -31,7 +31,7 @@
 
 
 # Github Stats
-<hr>
+
 <div align="center">
 
 ![Colderry](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)
@@ -47,7 +47,6 @@
 
 # Discord
 
-<hr>
 
 <p align="center">
   <a href="https://discord.com/users/538627730921619486">
