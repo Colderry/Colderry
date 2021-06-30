@@ -17,6 +17,8 @@
 
 <div align="left">
 
+<!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
+
 - 🔨 Project: `None`
 
 - 🌍 Website: `None`
@@ -27,7 +29,9 @@
 
 </div>
 
+
 # Github Stats
+<hr>
 <div align="center">
 
 ![Colderry](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)
@@ -37,4 +41,17 @@
     
 </div>
 
+</div>
+
+<div align="center">
+
+# Discord
+
+<hr>
+
+<p align="center">
+  <a href="https://discord.com/users/538627730921619486">
+    <img src="https://lanyard-profile-readme.vercel.app/api/538627730921619486?bg=#282c36" alt="Discord Profile"/>
+  </a>
+</p>
 </div>
