@@ -42,15 +42,3 @@
 </div>
 
 </div>
-
-<div align="center">
-
-# Discord
-
-
-<p align="center">
-  <a href="https://discord.com/users/538627730921619486">
-    <img src="https://lanyard-profile-readme.vercel.app/api/538627730921619486?bg=#282c36" alt="Discord Profile"/>
-  </a>
-</p>
-</div>
