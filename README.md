@@ -1,7 +1,7 @@
-<div align="center">
+### Hi there 👋
+I'm Colderry, and I'm a developer. I enjoy coding, music and learning new stuffs.
 
-<h1 >Colderry</h1>
-<h3>I'm a student and developer who likes to make stuffs for self and for people as well.</h3>
+<div align="center">
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=Colderry&label=Profile%20views&color=0e75b6&style=flat" alt="Colderry" /> </p>
@@ -17,7 +17,7 @@
 
 <div align="left">
 
-- 🔨 Project: `None`
+- 🔨 Current Project: `None`
 
 - 🌍 Website: `None`
 
@@ -26,7 +26,6 @@
 - ⭐ Goal: Contribute to open source projects
 
 </div>
-
 
 # Github Stats
 
