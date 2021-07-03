@@ -17,8 +17,6 @@
 
 <div align="left">
 
-<!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
-
 - 🔨 Project: `None`
 
 - 🌍 Website: `None`
